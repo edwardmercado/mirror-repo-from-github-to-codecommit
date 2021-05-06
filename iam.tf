@@ -5,7 +5,7 @@ resource "aws_iam_user" "mirror_user" {
 resource "aws_iam_user_ssh_key" "ssh_key" {
   username   = aws_iam_user.mirror_user.name
   encoding   = "SSH"
-  public_key = file("${path.module}/test.pub")
+  public_key = file("~/.ssh/id_rsa.pub")
 }
 
 

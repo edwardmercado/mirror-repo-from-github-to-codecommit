@@ -18,7 +18,7 @@ resource "github_repository" "github_repo" {
 resource "github_actions_secret" "SSH_Private" {
   repository      = github_repository.github_repo.name
   secret_name     = "CODECOMMIT_SSH_PRIVATE_KEY"
-  plaintext_value = file("${path.module}/test")
+  plaintext_value = file("~/.ssh/id_rsa/id_rsa")
 }
 
 resource "github_actions_secret" "SSH_Private_ID" {

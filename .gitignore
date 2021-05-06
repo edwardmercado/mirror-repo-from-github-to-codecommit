@@ -1,5 +1,6 @@
 # Ignore SSH
 id_rsa
+id_rsa.pub
 *id_rsa*
 test
 test.pub
