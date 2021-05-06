@@ -1,4 +1,4 @@
-# Test Repository for Mirroring Github to CodeCommit
+# Mirror Github Repository to CodeCommit
 
 ## Prerequisites:
 - Terraform 
