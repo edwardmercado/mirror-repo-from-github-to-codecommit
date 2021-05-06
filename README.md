@@ -7,7 +7,7 @@
 
 ### Getting Started
 - Clone this repository.
-- [Generate an SSH Key](https://docs.gitlab.com/ee/ssh/#generate-an-ssh-key-pair) - name them as `test`.
+- [Generate an SSH Key](https://docs.gitlab.com/ee/ssh/#generate-an-ssh-key-pair) - keep the default name if possible.
 - Copy and Paste the generated SSH Keys here.
 - Substitute values from `terraform.tfvars` file.
 - Run `terraform init`
