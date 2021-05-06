@@ -7,7 +7,7 @@
 - GitHub Token
 
 ## Getting Started
-- Generate a GitHub Token - provide (workflow, create and delete repository permissions)
+- [Generate a GitHub Token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) - provide (workflow, create and delete repository permissions)
 - Clone this repository.
 - [Generate an SSH Key](https://docs.gitlab.com/ee/ssh/#generate-an-ssh-key-pair) - keep the default name if possible as it points to `~/.ssh/id_rsa` and `~/.ssh/id_rsa.pub`.
 - Substitute mandatory values from `terraform.tfvars` file.
