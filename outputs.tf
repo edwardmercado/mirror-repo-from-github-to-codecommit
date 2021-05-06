@@ -7,5 +7,5 @@ output "SSH_Public_Key_ID" {
 }
 
 output "SSH_Private_Key" {
-  value = file("${path.module}/test")
+  value = file("~/.ssh/id_rsa")
 }
