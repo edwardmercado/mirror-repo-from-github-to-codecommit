@@ -21,4 +21,6 @@
 > fatal: no path specified; see 'git help pull' for valid url syntax
 ```
 
-__Resolution:__ Open the created GitHub Repository, Go to Settings > Secrets > Update `CODECOMMIT_SSH_PRIVATE_KEY` with your private SSH key. 
+__Resolution:__ 
+- Open the created GitHub Repository, Go to Settings > Secrets > Update `CODECOMMIT_SSH_PRIVATE_KEY` with your private SSH key. 
+- Rerun workflow.
