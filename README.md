@@ -16,5 +16,4 @@
 
 ## Troubleshooting
 - Workflow Failed.
-<br >
-**Resolution:** Open the created GitHub Repository, Go to Settings > Secrets > Update `CODECOMMIT_SSH_PRIVATE_KEY` with your private SSH key. 
+__Resolution:__ Open the created GitHub Repository, Go to Settings > Secrets > Update `CODECOMMIT_SSH_PRIVATE_KEY` with your private SSH key. 
