@@ -1,3 +1,5 @@
+![alt text](https://miro.medium.com/max/610/1*UbBnAobfnF5yxHYKCC70Xg.png)
+
 # Mirror Github Repository to CodeCommit
 
 ## Prerequisites:
