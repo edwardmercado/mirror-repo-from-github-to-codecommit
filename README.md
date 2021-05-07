@@ -1,4 +1,6 @@
-![alt text](https://miro.medium.com/max/610/1*UbBnAobfnF5yxHYKCC70Xg.png)
+<p align="center">
+  <img src="https://miro.medium.com/max/610/1*UbBnAobfnF5yxHYKCC70Xg.png" alt="Sublime's custom image"/>
+</p>
 
 # Mirror Github Repository to CodeCommit
 
