@@ -1,5 +1,5 @@
 resource "github_repository" "github_repo" {
-  name        = var.repository_name
+  name        = var.github_repository_name
   description = "my test repo created by Terraform"
   visibility  = "public"
 
